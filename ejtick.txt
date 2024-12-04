@@ -1,0 +1,477 @@
+*****************************************************************************************
+21/01/24 11:15 V=00123456 T=162 O=5001
+
+00200300012345 GUCCI FLORA 1750.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012345
+
+SUBTOTAL1750.00
+TOTAL1750.00
+
+478901231750.00
+AUT: 123456
+CLIENTEPAL
+6620012345678901
+ESQUEMA: Revolvente
+
+CÓDIGO DE AUTORIZACIÓN: 01
+Deslizada
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: ANA
+21/01/24 11:15
+
+*****************************************************************************************
+05/02/24 16:43 V=00234567 T=163 O=6002
+
+00200451234567 DIOR JOY 1800.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013207
+
+SUBTOTAL1800.00
+TOTAL1800.00
+
+49023101800.00
+AUT: 445678
+BANORTE
+5470912345678901/1234/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: JORGE
+05/02/24 16:43
+
+*****************************************************************************************
+15/03/24 12:00 V=00345678 T=164 O=7003
+
+00200198765432 VALENTINO V ROSA 2450.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012345
+
+SUBTOTAL2450.00
+TOTAL2450.00
+
+52012002450.00
+AUT: 567891
+CLIENTEPAL
+6620010987654321
+ESQUEMA: Revolvente
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Deslizada
+FA
+
+CAMBIO 250.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: LUIS
+15/03/24 12:00
+
+*****************************************************************************************
+03/04/24 09:45 V=00456789 T=165 O=8004
+
+00200345678912 HERMES EDP 3100.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013206
+
+SUBTOTAL3100.00
+TOTAL3100.00
+
+59045103100.00
+AUT: 678912
+BANAMEX
+5470912345678901/2345/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MARÍA
+03/04/24 09:45
+
+*****************************************************************************************
+12/05/24 14:10 V=00567890 T=166 O=9005
+
+00200111223344 CHANEL COCO NOIR 2250.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012456
+
+SUBTOTAL2250.00
+TOTAL2250.00
+
+60200302250.00
+AUT: 789123
+BANORTE
+5470987654321234/5678/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 50.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MIGUEL
+12/05/24 14:10
+
+*****************************************************************************************
+25/06/24 10:05 V=00678901 T=167 O=10006
+
+66200198765432
+PAGO DE TARJETA20000.00
+
+TOTAL20000.00
+EFECTIVO20000.00
+
+CAMBIO 0.00
+
+LO ATENDIÓ: ANA
+25/06/24 10:05
+
+*****************************************************************************************
+03/07/24 18:50 V=00789012 T=168 O=11007
+
+00200400011223 ARMANI CODE 1950.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013205
+
+SUBTOTAL1950.00
+TOTAL1950.00
+
+52123101950.00
+AUT: 345678
+CLIENTEPAL
+6620012345678901
+ESQUEMA: Revolvente
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Deslizada
+FA
+
+CAMBIO 50.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: LUIS
+03/07/24 18:50
+
+*****************************************************************************************
+15/08/24 17:20 V=00890123 T=169 O=12008
+
+00200345678912 GUCCI BLOOM 1800.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013204
+
+SUBTOTAL1800.00
+TOTAL1800.00
+
+47890121800.00
+AUT: 456789
+BANORTE
+5470912345678901/5678/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MARÍA
+15/08/24 17:20
+
+*****************************************************************************************
+22/09/24 09:15 V=00901234 T=170 O=13009
+
+66200198765432
+PAGO DE TARJETA30000.00
+
+TOTAL30000.00
+EFECTIVO30000.00
+
+CAMBIO 0.00
+
+LO ATENDIÓ: MIGUEL
+22/09/24 09:15
+
+*****************************************************************************************
+10/10/24 13:40 V=01012345 T=171 O=14010
+
+00200412345678 DIOR SAUVAGE 2650.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013207
+
+SUBTOTAL2650.00
+TOTAL2650.00
+
+55200102650.00
+AUT: 678901
+BANAMEX
+5470987654321234/6789/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 350.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: ANA
+10/10/24 13:40
+
+*****************************************************************************************
+10/01/24 08:30 V=00901234 T=170 O=13009
+
+00200123456789 PRADA LUNA ROSSA 2100.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012348
+
+SUBTOTAL2100.00
+TOTAL2100.00
+
+47890122100.00
+AUT: 123457
+BBVA
+5470912345678901/1234/
+
+CÓDIGO DE AUTORIZACIÓN: 01
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: ANA
+10/01/24 08:30
+
+*****************************************************************************************
+22/01/24 12:00 V=01012345 T=171 O=14010
+
+00200456789012 DIOR HOMME 2750.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013210
+
+SUBTOTAL2750.00
+TOTAL2750.00
+
+60234502750.00
+AUT: 345679
+BANORTE
+5470987654321234/5678/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Deslizada
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MIGUEL
+22/01/24 12:00
+
+*****************************************************************************************
+05/02/24 15:45 V=01123456 T=172 O=15011
+
+00200198765432 CHANEL BLEU 3200.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012350
+
+SUBTOTAL3200.00
+TOTAL3200.00
+
+56789003200.00
+AUT: 678901
+CLIENTEPAL
+6620019876543210
+ESQUEMA: Revolvente
+
+CÓDIGO DE AUTORIZACIÓN: 01
+Chip
+FA
+
+CAMBIO 100.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: LUIS
+05/02/24 15:45
+
+*****************************************************************************************
+18/02/24 09:00 V=01234567 T=173 O=16012
+
+66200112345678
+PAGO DE TARJETA15000.00
+
+TOTAL15000.00
+EFECTIVO15000.00
+
+CAMBIO 0.00
+
+LO ATENDIÓ: JORGE
+18/02/24 09:00
+
+*****************************************************************************************
+10/03/24 11:15 V=01345678 T=174 O=17013
+
+00200123456789 HUGO BOSS BOTTLED 2900.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012347
+
+SUBTOTAL2900.00
+TOTAL2900.00
+
+47890122900.00
+AUT: 123458
+BANAMEX
+5470912345678901/1235/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 50.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MARÍA
+10/03/24 11:15
+
+*****************************************************************************************
+25/03/24 14:30 V=01456789 T=175 O=18014
+
+00200456789012 GIVENCHY GENTLEMAN 2500.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013211
+
+SUBTOTAL2500.00
+TOTAL2500.00
+
+56789002500.00
+AUT: 345680
+BANORTE
+5470912345678901/1234/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Deslizada
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MIGUEL
+25/03/24 14:30
+
+*****************************************************************************************
+01/04/24 18:10 V=01567890 T=176 O=19015
+
+00200112345678 BVLGARI MAN IN BLACK 2700.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012349
+
+SUBTOTAL2700.00
+TOTAL2700.00
+
+49012302700.00
+AUT: 678902
+CLIENTEPAL
+6620012345678901
+ESQUEMA: Revolvente
+
+CÓDIGO DE AUTORIZACIÓN: 01
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: ANA
+01/04/24 18:10
+
+*****************************************************************************************
+15/04/24 16:50 V=01678901 T=177 O=20016
+
+00200456789012 YSL LIBRE 1850.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:013207
+
+SUBTOTAL1850.00
+TOTAL1850.00
+
+49023101850.00
+AUT: 123459
+BBVA
+5470912345678901/1234/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 0.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: MARÍA
+15/04/24 16:50
+
+*****************************************************************************************
+22/05/24 10:30 V=01789012 T=178 O=21017
+
+00200123456789 GUCCI GUILTY 2100.00
+Mercancía sin cambio ni devolución
+CAN. 1.000 Pza.
+DEPTO:012341
+
+SUBTOTAL2100.00
+TOTAL2100.00
+
+47890122100.00
+AUT: 345681
+BANAMEX
+5470912345678901/1235/
+
+CÓDIGO DE AUTORIZACIÓN: 00
+Chip
+FA
+
+CAMBIO 50.00
+
+Número de Productos: 1.000
+LO ATENDIÓ: LUIS
+22/05/24 10:30
+
+*****************************************************************************************
+05/06/24 12:00 V=01890123 T=179 O=22018
+
+66200198765432
+PAGO DE TARJETA10000.00
+
+TOTAL10000.00
+EFECTIVO10000.00
+
+CAMBIO 0.00
+
+LO ATENDIÓ: JORGE
+05/06/24 12:00
+*****************************************************************************************

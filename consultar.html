@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Ticket</title>
+    <link rel="preload" href="css/normalize.css" as="style">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preload" href="css/styles.css" as="style">
+    <link href="css/styles.css" rel="stylesheet">
+    <!-- Flatpickr CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="logo-container">
+            <div class="enlaces">
+                <a href="index.html" class="cerrar-sesion">
+                    <img class="logo3" src="img/salida.png" alt="Logo 3">
+                    <span>Cerrar Sesión</span>
+                </a>
+            </div>
+        </div>
+        <h2 class="subtitulo">Consulta de Ticket</h2>
+    </header>
+
+    <div class="division filas">
+        <!-- Formulario de consulta -->
+        <section>
+            <form class="formulario" id="consultaForm">
+                <fieldset>
+                    <div class="contenedor-campos">
+                        <div class="campo">
+                            <label for="tienda">Tienda</label>
+                            <input class="input-text" type="text" id="tienda" placeholder="Introduzca Tienda">
+                        </div>
+
+                        <div class="campo">
+                            <label for="fecha">Fecha</label>
+                            <input class="input-text" type="text" id="fecha" placeholder="Seleccione Fecha">
+                        </div>
+                    </div>
+
+                    <div class="alinear-centro flex">
+                        <input class="boton w-sm-100" type="submit" value="Consultar">
+                    </div>
+                </fieldset>
+            </form>
+        </section>
+
+        <!-- Contenido del archivo -->
+        <section id="contenidoArchivo" style="display: none;">
+            <div class="alinear-centro flex">
+                <input class="input-text" type="text" id="miBuscador" placeholder="Ingrese término de búsqueda">
+                <input id="buscarBtn" class="boton" type="button" value="Buscar">
+            </div>
+
+            <!-- Cambie div por pre -->
+            <pre id="archivoContenido" style="white-space: pre-wrap; word-wrap: break-word;"></pre>
+        </section>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+    <script src="java.js"></script>
+</body>
+
+</html>

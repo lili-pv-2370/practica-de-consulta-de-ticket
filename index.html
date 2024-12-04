@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de sesión</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <header>
+        <div class="logo-container">
+            <img class="logo2" src="img/usuario.png" alt="Logo 2">
+        </div>
+        <h1 class="titulo">Inicio de Sesión</h1>
+    </header>
+
+    <section>
+        <form class="formulario" onsubmit="return validarFormulario()">
+            <fieldset>
+                <div class="contenedor-campos">
+                    <div class="campo">
+                        <label>Usuario</label>
+                        <input class="input-text" type="text" id="usuario" placeholder="Introduzca Usuario" required>
+                    </div>
+
+                    <div class="campo">
+                        <label>Contraseña</label>
+                        <div class="password-container">
+                            <input class="input-text" type="password" id="password" placeholder="Introduzca Contraseña"
+                                required>
+                            <span class="toggle-password" onclick="togglePasswordVisibility()">Mostrar</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="alinear-centro flex">
+                    <button class="boton" type="submit">Iniciar Sesión</button>
+                </div>
+
+                <div class="olvido-contrasena">
+                    <a href="recuperar.html">¿Olvidaste tu contraseña?</a>
+                </div>
+            </fieldset>
+        </form>
+    </section>
+
+    <script src="java.js"></script>
+</body>
+
+</html>
